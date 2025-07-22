@@ -1,1 +1,2 @@
-print(Olá git)
+print('Olá git e Vscode')
+
